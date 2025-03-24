@@ -1,0 +1,31 @@
+[
+  {
+    "title":"Atomic Habits",
+    "author":"Eric Johns",
+    "genre":"Psychology",
+    "read_status":false,
+    "added_data":"2024-02-13 12:13:46"
+  },
+  {
+        "title":"Human Psychology",
+    "author":"John dianas",
+    "genre":"Psychology",
+    "read_status":True,
+    "added_data":"2024-02-13 12:13:46"
+  },
+  {
+        "title":"C++",
+    "author":"Johns Ritchard",
+    "genre":"Programming",
+    "read_status":false,
+    "added_data":"2024-02-13 12:13:46"
+  },
+  {
+        "title":"System Development",
+    "author":"dev siano",
+    "genre":"Art",
+    "read_status":false,
+    "added_data":"2024-02-13 12:13:46"
+  },
+    
+]
