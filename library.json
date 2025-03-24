@@ -1,31 +1,34 @@
 [
+  [
   {
-    "title":"Atomic Habits",
-    "author":"Eric Johns",
-    "genre":"Psychology",
-    "read_status":false,
-    "added_data":"2024-02-13 12:13:46"
+    "title": "Football",
+    "author": "Ronaldo",
+    "publicaton_year": 2023,
+    "read_status": "Read",
+    "added_date": "2025-03-24 23:22:04"
   },
   {
-        "title":"Human Psychology",
-    "author":"John dianas",
-    "genre":"Psychology",
-    "read_status":True,
-    "added_data":"2024-02-13 12:13:46"
+    "title": "Gaming in c#",
+    "author": "Edward",
+    "publicaton_year": 2021,
+    "read_status": "Unread",
+    "added_date": "2025-03-24 23:22:11"
   },
   {
-        "title":"C++",
-    "author":"Johns Ritchard",
-    "genre":"Programming",
-    "read_status":false,
-    "added_data":"2024-02-13 12:13:46"
+    "title": "Psychology",
+    "author": "John Eric",
+    "publicaton_year": 2020,
+    "read_status": "Read",
+    "added_date": "2025-03-24 23:22:47"
   },
   {
-        "title":"System Development",
-    "author":"dev siano",
-    "genre":"Art",
-    "read_status":false,
-    "added_data":"2024-02-13 12:13:46"
-  },
+    "title": "C++",
+    "author": "john Ritchard",
+    "publicaton_year": 2022,
+    "read_status": "Read",
+    "added_date": "2025-03-24 23:22:56"
+  }
+]
+  
     
 ]
